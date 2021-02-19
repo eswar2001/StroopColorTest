@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react'
 import { colorList } from '../constants/colors'
-let score = 0;
-let crtcnt = 0;
+export let score  = 0;
+export let crtcnt = 0;
 let selected = {
     "b1": false,
     "b2": false,

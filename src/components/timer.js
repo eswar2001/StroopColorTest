@@ -1,4 +1,5 @@
 import React, { useEffect } from 'react'
+import { score, crtcnt } from './ColorBox'
 var myTimer;
 //state gets refreshed
 export const Timer = (params) => {
@@ -29,7 +30,7 @@ export const clock = (timelimit) => {
                 localStorage.setItem('level', 0)
             }
             localStorage.setItem('level', parseInt(level) + 1)
-            alert(`Well Played`)
+            alert(`Well Played you score is ${score}/${crtcnt} `)
             window.location.reload();
         }
     }

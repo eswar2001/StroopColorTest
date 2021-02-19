@@ -23,7 +23,7 @@ export const colorList = {
             "type": "primary",
             "code": {
                 "rgba": [255, 0, 0, 1],
-                "hex": "#FF0"
+                "hex": "#F00"
             }
         },
         {

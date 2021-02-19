@@ -5,6 +5,10 @@ export const Game = () => {
     let level = 0;
     if (localStorage.getItem('level')) {
         level = parseInt(localStorage.getItem('level')) || 0;
+        if (level > 4) {
+            level = 0
+            localStorage.setItem('level', 0)
+        }
     }
     if (start) {
         console.log('timer begun')

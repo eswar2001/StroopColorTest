@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/StroopColorTest/static/css/main.78caacbd.chunk.css",
-    "main.js": "/StroopColorTest/static/js/main.01e7961e.chunk.js",
-    "main.js.map": "/StroopColorTest/static/js/main.01e7961e.chunk.js.map",
+    "main.js": "/StroopColorTest/static/js/main.0c277d76.chunk.js",
+    "main.js.map": "/StroopColorTest/static/js/main.0c277d76.chunk.js.map",
     "runtime-main.js": "/StroopColorTest/static/js/runtime-main.aac5e715.js",
     "runtime-main.js.map": "/StroopColorTest/static/js/runtime-main.aac5e715.js.map",
     "static/js/2.63af2973.chunk.js": "/StroopColorTest/static/js/2.63af2973.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.aac5e715.js",
     "static/js/2.63af2973.chunk.js",
     "static/css/main.78caacbd.chunk.css",
-    "static/js/main.01e7961e.chunk.js"
+    "static/js/main.0c277d76.chunk.js"
   ]
 }

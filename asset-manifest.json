@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/StroopColorTest/static/css/main.78caacbd.chunk.css",
+    "main.js": "/StroopColorTest/static/js/main.55fd89a8.chunk.js",
+    "main.js.map": "/StroopColorTest/static/js/main.55fd89a8.chunk.js.map",
+    "runtime-main.js": "/StroopColorTest/static/js/runtime-main.aac5e715.js",
+    "runtime-main.js.map": "/StroopColorTest/static/js/runtime-main.aac5e715.js.map",
+    "static/js/2.a6d7591e.chunk.js": "/StroopColorTest/static/js/2.a6d7591e.chunk.js",
+    "static/js/2.a6d7591e.chunk.js.map": "/StroopColorTest/static/js/2.a6d7591e.chunk.js.map",
+    "index.html": "/StroopColorTest/index.html",
+    "static/css/main.78caacbd.chunk.css.map": "/StroopColorTest/static/css/main.78caacbd.chunk.css.map",
+    "static/js/2.a6d7591e.chunk.js.LICENSE.txt": "/StroopColorTest/static/js/2.a6d7591e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aac5e715.js",
+    "static/js/2.a6d7591e.chunk.js",
+    "static/css/main.78caacbd.chunk.css",
+    "static/js/main.55fd89a8.chunk.js"
+  ]
+}

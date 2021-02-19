@@ -22,7 +22,9 @@ export const Game = () => {
         return (
             <div className="container" style={{ paddingTop: '30vh', paddingLeft: '15vw' }}>
                 <h1>The Stroop Color and Word Test</h1>
-                <p>Select the boxes whose color is represented by text over it.</p><br /><br />
+                <p>Select the boxes whose color is represented by text over it.
+                   There are three levels with varied time limit.    
+                </p><br /><br />
                 <div className="vertical-center">
                     <button className="btn" onClick={(e) => {
                         setStart(true);

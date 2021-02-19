@@ -20,7 +20,7 @@ export const Game = () => {
     }
     else {
         return (
-            <div className="container" style={{ paddingTop: '30vh', paddingLeft: '15vw' }}>
+            <div className="container" style={{ paddingTop: '20vh', paddingLeft: '15vw' }}>
                 <h1>The Stroop Color and Word Test</h1>
                 <p>Select the boxes whose color is represented by text over it.
                    There are three levels with varied time limit.    
